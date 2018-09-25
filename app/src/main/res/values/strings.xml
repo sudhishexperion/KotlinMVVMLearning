@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">KotlinMVVMLearning</string>
+    <string name="enterData">Enter Data</string>
+    <string name="getData">Get Data</string>
+    <string name="editData">Edit Data</string>
+    <string name="enterName">Enter Name</string>
+    <string name="enterAge">Enter Age</string>
+    <string name="enterSex">Enter Sex</string>
+    <string name="sendDetails">Send Details</string>
+    <string name="searchData">Search Data</string>
 </resources>
